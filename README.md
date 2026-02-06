@@ -562,15 +562,6 @@ clearErrorIfNeeded() {
 
 ---
 
-## 📞 연락처
-
-프로젝트에 대한 질문이나 제안이 있으시면 언제든지 연락주세요!
-
-- GitHub Issues: [이슈 생성하기](https://github.com/happyretire/calculator/issues)
-- 카페: [cafe.naver.com/retireclass](https://cafe.naver.com/retireclass)
-
----
-
 <div align="center">
 
 ### ⭐ 이 프로젝트가 마음에 드셨다면 Star를 눌러주세요!
