@@ -534,29 +534,24 @@ clearErrorIfNeeded() {
 
 ---
 
-## 📄 라이선스
+## 📄 라이선스 및 저작권
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자유롭게 사용, 수정, 배포할 수 있습니다.
+**저작자 ⓒ Dunam**
 
-```
-MIT License
+- 카페: [cafe.naver.com/retireclass](https://cafe.naver.com/retireclass)
 
-Copyright (c) 2026 Calculator Project
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
+이 프로젝트는 자유롭게 사용, 수정, 배포할 수 있습니다.
 
 ---
 
 ## 👨‍💻 개발자
 
-**Calculator Web Application**
+**저작자: Dunam**
 
 - 개발 기간: 2026년 2월
 - 기술 스택: HTML5, CSS3, Vanilla JavaScript
 - 디자인: Modern Dark Theme with Glassmorphism
+- 카페: [cafe.naver.com/retireclass](https://cafe.naver.com/retireclass)
 
 ---
 
@@ -571,8 +566,8 @@ in the Software without restriction...
 
 프로젝트에 대한 질문이나 제안이 있으시면 언제든지 연락주세요!
 
-- GitHub Issues: [이슈 생성하기](https://github.com/your-username/calculator/issues)
-- Email: your-email@example.com
+- GitHub Issues: [이슈 생성하기](https://github.com/happyretire/calculator/issues)
+- 카페: [cafe.naver.com/retireclass](https://cafe.naver.com/retireclass)
 
 ---
 
@@ -582,6 +577,6 @@ in the Software without restriction...
 
 **즐거운 계산 되세요! 🧮✨**
 
-Made with ❤️ by Calculator Team
+저작자 ⓒ Dunam | [cafe.naver.com/retireclass](https://cafe.naver.com/retireclass)
 
 </div>
